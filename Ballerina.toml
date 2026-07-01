@@ -2,3 +2,11 @@
 org = "testord002"
 name = "hellodevant"
 version = "1.0.0"
+
+[build-options]
+sticky = true
+
+[[dependency]]
+org = "testord002"
+name = "hello"
+version = "0.2.1"
