@@ -60,14 +60,14 @@ modules = [
 ]
 
 [[package]]
-org = "testord002"
+org = "wso2csdev"
 name = "hellodevant"
 version = "1.0.0"
 dependencies = [
 	{org = "ballerina", name = "log"},
-	{org = "testord002", name = "hello"}
+	{org = "wso2csdev", name = "hello"}
 ]
 modules = [
-	{org = "testord002", packageName = "hellodevant", moduleName = "hellodevant"}
+	{org = "wso2csdev", packageName = "hellodevant", moduleName = "hellodevant"}
 ]
 
