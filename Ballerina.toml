@@ -1,5 +1,5 @@
 [package]
-org = "testord002"
+org = "wso2csdev"
 name = "hellodevant"
 version = "1.0.0"
 distribution = "2201.13.1"
